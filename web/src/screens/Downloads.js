@@ -39,7 +39,7 @@ function Downloads() {
           id="link"
           name="link"
           label="Magnet Link"
-          placeholder="magnet:?xt=urn:btih:08ada5a7a6183aae1e09d831df6748d566095a10"
+          placeholder="drop a link"
           value={link}
           onChange={setLink}
           required

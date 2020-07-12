@@ -1,7 +1,7 @@
 {
   "name": "torrent-webui",
   "description": "All in one bot for torrenting",
-  "repository": "https://github.com/devillD/torrent-aio-bot",
+  "repository": "https://github.com/devillD/Torrent-WebUI",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },

@@ -1,10 +1,10 @@
 {
-  "name": "torrent-aio-bot",
+  "name": "torrent-webui",
   "description": "All in one bot for torrenting",
-  "repository": "https://github.com/patheticGeek/torrent-aio-bot",
+  "repository": "https://github.com/devillD/torrent-aio-bot",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "builpacks": [
     { "url": "heroku/nodejs" },
-    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+    { "url": "https://github.com/devillD/puppeteer-heroku-buildpack.git" }
   ]
 }

@@ -2,7 +2,7 @@
 
 Easy Peasy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/torrent-aio-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/Torrent-WebUI)
 
 Please don't start a test torrent download on my website it works you don't need to just wastes my drive space. Be careful when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
 
